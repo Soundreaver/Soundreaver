@@ -12,7 +12,7 @@
 - 🌱 I’m currently focused on expanding my skills in the MERN stack.
 - 💬 Ask me about: **JavaScript, TypeScript, React, and Node.js**.
 - 📄 Check out my **[Portfolio](https://portfolio-soundreaver.vercel.app)** to see my work.
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)** (replace with your email).
+- 📫 How to reach me: **[saadmansakif7@gmail](mailto:saadmansakif7@gmail.com)**.
 
 ---
 
