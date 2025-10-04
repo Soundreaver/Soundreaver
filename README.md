@@ -31,8 +31,6 @@ Here are some of the technologies I've been working with:
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  
-  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soundreaver&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
