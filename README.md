@@ -44,7 +44,7 @@ Here are some of the technologies I've been working with:
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Soundreaver&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
   </a>
 </p>
 
