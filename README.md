@@ -54,7 +54,7 @@ Here are some of the technologies I've been working with:
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="www.linkedin.com/in/saadman-sakif-19b088140" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
