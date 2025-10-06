@@ -53,11 +53,8 @@ Here are some of the technologies I've been working with:
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="40" width="50" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
+  <a href="https://linkedin.com/in/your-linkedin" target="www.linkedin.com/in/saadman-sakif-19b088140" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
 
